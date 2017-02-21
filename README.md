@@ -1,7 +1,7 @@
 ## Days
 一款菜单栏倒数日App. 
 
-![](https://github.com/KeliCheng/Simpo/blob/master/preview.png)
+![](https://github.com/KeliCheng/Days/blob/master/preview.png)
 
 ### tips
 - 打开App如果出现提示为未认证作者：
