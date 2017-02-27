@@ -1,7 +1,8 @@
 ## Days
-一款菜单栏倒数日App. 
+一款简单的菜单栏倒数日App. 支持中英德文显示以及自定义间隔符. 
 
-![](https://github.com/KeliCheng/Days/blob/master/preview.png)
+![](https://github.com/KeliCheng/Days/blob/master/preview1.png)
+![](https://github.com/KeliCheng/Days/blob/master/preview2.png)
 
 ### tips
 - 打开App如果出现提示为未认证作者：
@@ -12,14 +13,13 @@
 
 - 右键事件以编辑日期以及删除
 
-
 ### Contact
 意见建议或bug反馈，请联系微博：[@水云青鹤](http://weibo.com/shuiyunqinghe)
 
 ----------
 
 ## Days
-A macOS menubar countdown App. 
+A simple macOS menubar countdown App. Supporting Chinese/English/Deutsche and customized format. 
 
 ### tips: 
 - in case of showing "not identified developer" alert: close the alert, go to System Preference --> Security & Privacy --> General --> Open Days Anyway 
