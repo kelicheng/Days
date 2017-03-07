@@ -11,7 +11,9 @@
 
 - 双击回车键添加事件
 
-- 右键事件以编辑日期以及删除
+- 右键事件以编辑日期以及删除事件
+
+- 退出／设置（切换语言、自定义格式）：右键点击菜单栏图标。
 
 ### Contact
 意见建议或bug反馈，请联系微博：[@水云青鹤](http://weibo.com/shuiyunqinghe)
@@ -27,5 +29,11 @@ A simple macOS menubar countdown App. Supporting Chinese/English/Deutsche and cu
 - hit Enter twice to add an new event 
 
 - right-click on an event to edit date or delete it 
+
+- quit/ open preference to change language or customize format: right-click on the menubar icon. 
+
+### Contact: 
+ikcheng322@gmail.com 
+
 
 
